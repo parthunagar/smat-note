@@ -59,33 +59,32 @@
 ### Settings Screen
 ![Settings](https://github.com/parthunagar/smat-note/blob/main/screens/3.jpg) 
 -->
-### Home Screen
+<!-- ### Home Screen
 <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250" height="500"/>
 
 ### Statistics Dashboard
 <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250" height="500"/>
 
 ### Settings Screen
-<img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250" height="500"/>
+<img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250" height="500"/> -->
 
-<p align="center">
-
-<figure style="display: inline-block; margin: 0 10px; text-align: center;">
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="text-align: center;">
+  <h3>Home Screen</h3>
   <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250" height="500"/>
-  <figcaption>Home Screen</figcaption>
-</figure>
+</div>
 
-<figure style="display: inline-block; margin: 0 10px; text-align: center;">
+<div style="text-align: center;">
+  <h3>Statistics Dashboard</h3>
   <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250" height="500"/>
-  <figcaption>Statistics Dashboard</figcaption>
-</figure>
+</div>
 
-<figure style="display: inline-block; margin: 0 10px; text-align: center;">
+<div style="text-align: center;">
+  <h3>Settings Screen</h3>
   <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250" height="500"/>
-  <figcaption>Settings Screen</figcaption>
-</figure>
-
+</div>
 </p>
+
 *Beautiful, modern interface with Material 3 design*
 
 </div>
