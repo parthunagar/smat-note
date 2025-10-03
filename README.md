@@ -47,7 +47,7 @@
 
 ## 📸 Screenshots
 
-<!-- <div align="center"> -->
+<div align="center">
 
 <table>
   <tr>
@@ -68,29 +68,9 @@
   </tr>
 </table>
 
-<!-- <table>
-  <tr>
-    <td style="text-align: center; vertical-align: top; padding: 0;">Home Screen</td>
-    <td style="text-align: center; vertical-align: top; padding: 0;">Statistics Dashboard</td>
-    <td style="text-align: center; vertical-align: top; padding: 0;">Settings Screen</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: top; padding: 0;">
-      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250"/>
-    </td>
-    <td style="text-align: center; vertical-align: top; padding: 0;">
-      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250"/>
-    </td>
-    <td style="text-align: center; vertical-align: top; padding: 0;">
-      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250"/>
-    </td>
-  </tr>
-</table> -->
-
-
 *Beautiful, modern interface with Material 3 design*
 
-<!-- </div> -->
+</div>
 
 ---
 
