@@ -1,16 +1,25 @@
--> How to lauch webapp using github
 
-enable web in project
-run in web like crome
-run this command 
-command: fvm flutter build web --release --base-href /<repo-name>/
-example: fvm flutter build web --release --base-href /smat-note/
-after creating the web build
-create docs folder in project 
-copy this folfer like: build\web 
-paste into docs folder
-push code into gihhub
+🚀 How to Launch Web App using GitHub Pages
+1. Enable Web in Flutter Project
+    - open the device selection menu in your IDE
+    - select the last option [Enable web for this project]
+2. Run the Project in Web
+3. Build the web Release
+    - command: fvm flutter build web --release --base-href /<repo-name>/
+    - example: fvm flutter build web --release --base-href /smat-note/
+    - ⚠️ The --base-href must match your repository name for GitHub Pages.
+4. Prepare the Docs Folder
+    - Create a docs folder in your project root (if not already present)
+    - Copy the web build and paste into the docs folder
+5. push the code into github
+6. Configure Github Pages
+    - Open Your repository on Github
+    - Go to Setting -> Pages
+    - Select Following Option:
+        - Branch: Main
+        - Folder: /docs
+    - Click Save
+    - after a few minutes, your web app will be available at:
+         - https://<username>.github.io/<repo-name>/ [Template Url]
+         - https://parthunagar.github.io/smat-note/  [Web App Url]
 
-github console
-go to repo setting -> pages tab
-select main branch and docs/ folder and click on save
