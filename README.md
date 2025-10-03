@@ -85,6 +85,26 @@
 </div>
 </p>
 
+<table>
+  <tr>
+    <th>Home Screen</th>
+    <th>Statistics Dashboard</th>
+    <th>Settings Screen</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250"/>
+    </td>
+    <td>
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250"/>
+    </td>
+    <td>
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250"/>
+    </td>
+  </tr>
+</table>
+
+
 *Beautiful, modern interface with Material 3 design*
 
 </div>
