@@ -68,24 +68,25 @@
   </tr>
 </table>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<table>
+  <tr>
+    <td style="text-align: center; vertical-align: top; padding: 0;">Home Screen</td>
+    <td style="text-align: center; vertical-align: top; padding: 0;">Statistics Dashboard</td>
+    <td style="text-align: center; vertical-align: top; padding: 0;">Settings Screen</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: top; padding: 0;">
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250"/>
+    </td>
+    <td style="text-align: center; vertical-align: top; padding: 0;">
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250"/>
+    </td>
+    <td style="text-align: center; vertical-align: top; padding: 0;">
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250"/>
+    </td>
+  </tr>
+</table>
 
-  <div style="text-align: center;">
-    <div>Home Screen</div>
-    <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250"/>
-  </div>
-
-  <div style="text-align: center;">
-    <div>Statistics Dashboard</div>
-    <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250"/>
-  </div>
-
-  <div style="text-align: center;">
-    <div>Settings Screen</div>
-    <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250"/>
-  </div>
-
-</div>
 
 *Beautiful, modern interface with Material 3 design*
 
