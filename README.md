@@ -58,6 +58,15 @@
 ### Settings Screen
 ![Settings](https://github.com/parthunagar/smat-note/blob/main/screens/3.jpg)
 
+### Home Screen
+<img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250" height="500"/>
+
+### Statistics Dashboard
+<img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250" height="500"/>
+
+### Settings Screen
+<img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.jpg" alt="Settings" width="250" height="500"/>
+
 *Beautiful, modern interface with Material 3 design*
 
 </div>
@@ -266,10 +275,12 @@ copies or substantial portions of the Software.
 
 ## 👨‍💻 Author
 
+- 🐛 **Bug Fixes** - Check our [Issues](https://github.com/parthunagar/smat-note/issues)
+
 **Parth Unagar**
-- 🌐 [Website]: (https://parthunagar.web.app/)
-- 💼 [LinkedIn]: (https://www.linkedin.com/in/parth-unagar-154a88166/)
-- 📧 [Email]: parthunagar9@gmail.com
+- 🌐 [Website](https://parthunagar.web.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/parth-unagar-154a88166/)
+- 📧 [Email](parthunagar9@gmail.com)
 
 ---
 
