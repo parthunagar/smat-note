@@ -69,9 +69,22 @@
 <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250" height="500"/>
 
 <p align="center">
+
+<figure style="display: inline-block; margin: 0 10px; text-align: center;">
   <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250" height="500"/>
+  <figcaption>Home Screen</figcaption>
+</figure>
+
+<figure style="display: inline-block; margin: 0 10px; text-align: center;">
   <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250" height="500"/>
+  <figcaption>Statistics Dashboard</figcaption>
+</figure>
+
+<figure style="display: inline-block; margin: 0 10px; text-align: center;">
   <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250" height="500"/>
+  <figcaption>Settings Screen</figcaption>
+</figure>
+
 </p>
 *Beautiful, modern interface with Material 3 design*
 
