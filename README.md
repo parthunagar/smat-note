@@ -50,13 +50,13 @@
 <div align="center">
 
 ### Home Screen
-![Home Screen](https://github.com/parthunagar/smat-note/blob/screen/1.jpg)
+![Home Screen](https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg)
 
 ### Statistics Dashboard
-![Statistics](https://github.com/parthunagar/smat-note/blob/screen/2.jpg)
+![Statistics](https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg)
 
 ### Settings Screen
-![Settings](https://github.com/parthunagar/smat-note/blob/screen/3.jpg)
+![Settings](https://github.com/parthunagar/smat-note/blob/main/screens/3.jpg)
 
 *Beautiful, modern interface with Material 3 design*
 
@@ -244,7 +244,7 @@ We love contributions! Here's how you can help make Smart Notes even better:
 ---
 
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/parthunagar/smart-note?tab=readme-ov-file#) file for details.
 
 ```
 MIT License
