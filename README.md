@@ -57,18 +57,18 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250"/>
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250" height="300"/>
     </td>
     <td>
-      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250"/>
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250" height="300"/>
     </td>
     <td>
-      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250"/>
+      <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250" height="300"/>
     </td>
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td style="text-align: center; vertical-align: top; padding: 0;">Home Screen</td>
     <td style="text-align: center; vertical-align: top; padding: 0;">Statistics Dashboard</td>
@@ -85,7 +85,7 @@
       <img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 *Beautiful, modern interface with Material 3 design*
