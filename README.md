@@ -76,7 +76,7 @@
 
 ## 📂 Download the app and test it
 - [**📱 Android**](https://github.com/parthunagar/smat-note/blob/main/apk/app-release.apk)
-- [**💻 Windows**](https://github.com/parthunagar/smat-note/blob/main/apk/app-release.apk)
+- [**💻 Web**](https://parthunagar.github.io/smat-note/)
 
 ---
 
