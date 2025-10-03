@@ -49,6 +49,7 @@
 
 <div align="center">
 
+<!-- 
 ### Home Screen
 ![Home Screen](https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg)
 
@@ -56,8 +57,8 @@
 ![Statistics](https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg)
 
 ### Settings Screen
-![Settings](https://github.com/parthunagar/smat-note/blob/main/screens/3.jpg)
-
+![Settings](https://github.com/parthunagar/smat-note/blob/main/screens/3.jpg) 
+-->
 ### Home Screen
 <img src="https://github.com/parthunagar/smat-note/blob/main/screens/1.jpg" alt="Home Screen" width="250" height="500"/>
 
