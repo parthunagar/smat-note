@@ -71,11 +71,12 @@
 *Beautiful, modern interface with Material 3 design*
 
 </div>
+
 ---
 
-##📂 Download the app and test it
-- 📱 Android(https://github.com/parthunagar/calculator/tree/main/apk/Flutter-Calculator.apk)
-- 💻 Windows(https://github.com/parthunagar/calculator/tree/main/apk/Flutter-Calculator.apk)
+## 📂 Download the app and test it
+- [**📱 Android**](https://github.com/parthunagar/smat-note/blob/main/apk/app-release.apk)
+- [**💻 Windows**](https://github.com/parthunagar/smat-note/blob/main/apk/app-release.apk)
 
 ---
 
