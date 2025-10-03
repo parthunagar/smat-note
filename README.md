@@ -66,7 +66,7 @@
 <img src="https://github.com/parthunagar/smat-note/blob/main/screens/2.jpg" alt="Statistics" width="250" height="500"/>
 
 ### Settings Screen
-<img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.jpg" alt="Settings" width="250" height="500"/>
+<img src="https://github.com/parthunagar/smat-note/blob/main/screens/3.png" alt="Settings" width="250" height="500"/>
 
 *Beautiful, modern interface with Material 3 design*
 
