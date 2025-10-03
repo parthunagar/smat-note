@@ -6,6 +6,7 @@ import 'screens/home_screen.dart';
 import 'screens/statistics_screen.dart';
 import 'screens/settings_screen.dart';
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 

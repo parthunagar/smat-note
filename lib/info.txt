@@ -1,0 +1,16 @@
+-> How to lauch webapp using github
+
+enable web in project
+run in web like crome
+run this command 
+command: fvm flutter build web --release --base-href /<repo-name>/
+example: fvm flutter build web --release --base-href /smat-note/
+after creating the web build
+create docs folder in project 
+copy this folfer like: build\web 
+paste into docs folder
+push code into gihhub
+
+github console
+go to repo setting -> pages tab
+select main branch and docs/ folder and click on save
