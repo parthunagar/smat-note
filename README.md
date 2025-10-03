@@ -48,7 +48,6 @@
 ## 📸 Screenshots
 
 <!-- <div align="center"> -->
-<!-- ### Home Screen -->
 
 <table>
   <tr>
@@ -68,7 +67,6 @@
     </td>
   </tr>
 </table>
-
 
 *Beautiful, modern interface with Material 3 design*
 
