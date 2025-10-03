@@ -254,7 +254,7 @@ We love contributions! Here's how you can help make Smart Notes even better:
 ---
 
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/parthunagar/smart-note?tab=readme-ov-file#) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/parthunagar/smat-note/blob/main/LICENSE.md#) file for details.
 
 ```
 MIT License
